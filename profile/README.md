@@ -14,14 +14,12 @@ Na Zend reunimos projetos únicos em constante evolução criados para vendedore
 
 ## 🤝 Comunidade
 
-A Zend não é só código — é **comunidade**   
-
 Participe, contribua, dê sugestões e acompanhe as novidades.  
 Estamos sempre evoluindo junto com nossos usuários.
 
  
 ## 📫 Contato
-  <a href = "https://discord.com/invite/RsnNFWeGrc"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://discord.com/invite/zend"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://disboard.org/pt-br/server/1190044293801455678" target="_blank">
 [![Site](https://img.shields.io/badge/Site-Zend%20Applications-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://SEUSITE.com)
 
